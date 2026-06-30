@@ -1,0 +1,28 @@
+{
+  "name": "landingoctavio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabriBenitez/LandingOctavio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabriBenitez/LandingOctavio/issues"
+  },
+  "homepage": "https://github.com/FabriBenitez/LandingOctavio#readme",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.5.2",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^4.3.2",
+    "vite": "^8.1.0"
+  }
+}
